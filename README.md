@@ -1,2 +1,2 @@
 # 1
-1) Iniciando - Primeiro repositório no Github.
+Começando a usar o Github.
